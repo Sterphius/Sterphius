@@ -2,20 +2,6 @@
 <h1 style="border-bottom: none;">Hi there 👋 I'm Alexey Malyshev - QA Engineer with 4+ years of experience</h1>
 </div>
 
-<div align="center">
-<h2 style="border-bottom: none;">My contacts:</h2>
-<a href="https://github.com/Sterphius" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/sterphius/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/sterphius" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a>
-</div>  
-
-
 <br>
 <h2 style="border-bottom: none;" align="center">Github stats:</h2>
 <div align="center">
@@ -29,22 +15,47 @@
 </div>
 <br>
 <br>
+
 <div align="center">
   <h2 style="border-bottom: none;" align="center">Technical Skills:</h2>
-  <code><img width="4%" title="Allure" src="logo/Allure.svg"></code>
-  <code><img width="4%" title="Allure TestOps" src="logo/Allure_TO.svg"></code>
-  <code><img width="4%" title="Appium" src="logo/appium.svg"></code>
-  <code><img width="4%" title="Browserstack" src="logo/browserstack.svg"></code>
-  <code><img width="4%" title="Docker" src="logo/docker.svg"></code>
-  <code><img width="4%" title="Jenkins" src="logo/jenkins.png"></code>
-  <code><img width="4%" title="Jira" src="logo/jira.svg"></code>
-  <code><img width="4%" title="Postman" src="logo/postman.png"></code>
-  <code><img width="4%" title="PyCharm" src="logo/pycharm.png"></code>
-  <code><img width="4%" title="Python" src="logo/python.svg"></code>
-  <code><img width="4%" title="pytest" src="logo/pytest.png"></code>
-  <code><img width="4%" title="Requests" src="logo/request.png"></code>
-  <code><img width="4%" title="Selenoid" src="logo/selenoid.png"></code>
-  <code><img width="4%" title="Selene" src="logo/selene.png"></code>
-  <code><img width="4%" title="Slack" src="logo/slack.svg"></code>
-  <code><img width="4%" title="Telegram" src="logo/telegram.svg"></code>
+  <img width="4%" title="Allure" src="logo/Allure.svg">
+  <img width="4%" title="Allure TestOps" src="logo/Allure_TO.svg">
+  <img width="4%" title="Appium" src="logo/appium.svg">
+  <img width="4%" title="Browserstack" src="logo/browserstack.svg">
+  <img width="4%" title="Docker" src="logo/docker.svg">
+  <img width="4%" title="Jenkins" src="logo/jenkins.png">
+  <img width="4%" title="Jira" src="logo/jira.svg">
+  <img width="4%" title="Postman" src="logo/postman.png">
+  <img width="4%" title="PyCharm" src="logo/pycharm.png">
+  <img width="4%" title="Python" src="logo/python.svg">
+  <img width="4%" title="pytest" src="logo/pytest.png">
+  <img width="4%" title="Requests" src="logo/request.png">
+  <img width="4%" title="Selenoid" src="logo/selenoid.png">
+  <img width="4%" title="Selene" src="logo/selene.png">
+  <img width="4%" title="Slack" src="logo/slack.svg">
+  <img width="4%" title="Telegram" src="logo/telegram.svg">
 </div>
+<br>
+<br>
+
+<div align="center">
+  <h2 style="border-bottom: none;" align="center">API, Mobile and UI autotests sample project:</h2>
+<!-- </br> -->
+<a target="_blank" href="https://github.com/Sterphius/ostrovok_tests"><img title="Ostrovok.ru" src="https://st.worldota.net/master/61a4598-454bfe1/img/svg/brand-logo/ostrovok.svg"></a>
+</div>
+<br>
+<br>
+<!-- UI, API autotests example of  -->
+
+<div align="center">
+<h2 style="border-bottom: none;">My contacts:</h2>
+<a href="https://github.com/Sterphius" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/sterphius/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/sterphius" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+</div>  
