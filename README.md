@@ -2,7 +2,6 @@
 <h1 style="border-bottom: none;">Hi there 👋 I'm Alexey Malyshev - QA Engineer with 4+ years of experience</h1>
 </div>
 
-<br>
 <h2 style="border-bottom: none;" align="center">Github stats:</h2>
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=sterphius">
@@ -40,7 +39,6 @@
 <!-- </br> -->
 <a target="_blank" href="https://github.com/Sterphius/ostrovok_tests"><img title="Ostrovok.ru" src="https://st.worldota.net/master/61a4598-454bfe1/img/svg/brand-logo/ostrovok.svg"></a>
 </div>
-<br>
 <div align="center">
 <h2 style="border-bottom: none;">My contacts:</h2>
 <a href="https://github.com/Sterphius" target="_blank">
