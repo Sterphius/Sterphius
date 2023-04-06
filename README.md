@@ -13,9 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sterphius&theme=vision-friendly-dark&layout=compact&hide_title=true&card_width=445&hide=javascript,css,html&langs_count=10" />
 </a>
 </div>
-<br>
-<br>
-
+</br>
 <div align="center">
   <h2 style="border-bottom: none;" align="center">Technical Skills:</h2>
   <img width="4%" title="Allure" src="logo/Allure.svg">
@@ -36,7 +34,6 @@
   <img width="4%" title="Telegram" src="logo/telegram.svg">
 </div>
 <br>
-<br>
 
 <div align="center">
   <h2 style="border-bottom: none;" align="center">API, Mobile and UI autotests sample project:</h2>
@@ -44,9 +41,6 @@
 <a target="_blank" href="https://github.com/Sterphius/ostrovok_tests"><img title="Ostrovok.ru" src="https://st.worldota.net/master/61a4598-454bfe1/img/svg/brand-logo/ostrovok.svg"></a>
 </div>
 <br>
-<br>
-<!-- UI, API autotests example of  -->
-
 <div align="center">
 <h2 style="border-bottom: none;">My contacts:</h2>
 <a href="https://github.com/Sterphius" target="_blank">
